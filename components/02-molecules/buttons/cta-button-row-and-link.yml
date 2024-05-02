@@ -1,0 +1,13 @@
+buttons:
+  - text: "CTA Button 1"
+    onClick: "javascript:void(0);"
+    class: "cta-class-1"
+  - text: "CTA Button 2"
+    onClick: "javascript:void(0);"
+    class: "cta-class-2"
+  - text: "CTA Button 3"
+    onClick: "javascript:void(0);"
+    class: "cta-class-3"
+linkText: "Learn More"
+linkUrl: "http://example.com"
+linkClass: "link-class"
