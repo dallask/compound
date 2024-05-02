@@ -1,0 +1,32 @@
+.cta-button-row-and-link {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+
+  .cta-buttons-row {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    margin-bottom: 20px;
+
+    button.cta-button {
+      flex-grow: 1;
+      margin: 0 10px;
+
+      &:first-child {
+        margin-left: 0;
+      }
+
+      &:last-child {
+        margin-right: 0;
+      }
+    }
+  }
+
+  a.link-atom {
+    text-decoration: underline;
+    cursor: pointer;
+    color: #007bff; // Example color, should be adjusted according to the project's color scheme
+  }
+}
