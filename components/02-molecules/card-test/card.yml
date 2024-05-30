@@ -1,0 +1,6 @@
+card__image__src: 'https://picsum.photos/seed/picsum/1280/720'
+card__image__alt: "Image representing patient support"
+card__image__output_image_tag: true
+card__body: 'Helps patients manage their care and provides financial aid to patients with chronic, life-threatening, and debilitating diseases.'
+card__link__text: 'Patient advocate foundation'
+card__link__url: 'https://google.com'
